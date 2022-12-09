@@ -62,3 +62,8 @@
       <li><a href="#">Services</a></li>
       <li><a href="#">Portfolio</a></li>
       <li
+      
+      $ git add .
+$ git commit -m "Add website code"
+$ git push origin gh-pages
+
